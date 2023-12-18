@@ -1,5 +1,4 @@
 # GitHubForDevelopers
 GitHub for Developers
 
-## Adding a header two
-Shapeous caption
+**Shape Ous caption!**
